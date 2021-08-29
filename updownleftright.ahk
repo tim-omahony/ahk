@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 return
 !k::Down
 return
-!j::Right
+!j::Left
 return
-!l::Left
+!l::Right
 return
