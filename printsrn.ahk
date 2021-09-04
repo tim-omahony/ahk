@@ -1,0 +1,2 @@
+﻿^!p::Send {PrintScreen}
+return
